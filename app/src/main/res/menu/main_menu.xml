@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" />
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <item
+        android:id="@+id/Sports"
+        android:icon="@drawable/football"
+        android:title="Sports" />
+    <item
+        android:icon="@drawable/ic_directions_bike_black_24dp"
+        android:id="@+id/Entertainment"
+        android:title="Entertainment" />
+    <item
+        android:icon="@drawable/ic_desktop_windows_black_24dp"
+        android:id="@+id/Technology"
+        android:title="Technology" />
+    <item
+        android:icon="@drawable/ic_desktop_windows_black_24dp"
+        android:id="@+id/browser"
+        android:title="Browser"/>
+</menu>

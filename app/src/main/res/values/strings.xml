@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="language_prompt">Choose Language</string>
+
+    <string-array name="country_arrays">
+        <item>India</item>
+        <item>United States</item>
+        <item>Canada</item>
+        <item>Japan</item>
+
+    </string-array>
+    <string-array name="Language">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+
+</resources>
